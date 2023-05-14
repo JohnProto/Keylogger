@@ -1,2 +1,2 @@
 # Keylogger
-A simple keylogger I made with C:
+A simple keylogger I made with C
